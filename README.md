@@ -1,2 +1,3 @@
-# ping-pong-
-game on pygame
+# ping-pong
+1. Игра создана на языке Python, с помощью библиотеки Pygame 
+2. Игра для двух игроков
